@@ -33,7 +33,7 @@ export default function Header({ cart, onUpdateCartItemQuantity }) {
       />
       <header id="main-header">
         <div id="main-title">
-        <img src="src/assets/logo.jpg" alt="Elegant model" />
+        <img src="src/assets/logo1.jpg" alt="Elegant model" />
 
           <h1>SmartBuy</h1>
         </div>
